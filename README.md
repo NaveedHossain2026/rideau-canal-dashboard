@@ -7,11 +7,11 @@ This is a real-time web application built with Node.js. It serves as the Present
 
 __Dashboard Features__
 
-Real-time Monitoring: Automatic data fetching every 30 seconds to keep safety statuses current.
+Real-time data display with Auto-refresh: Automatic data fetching every 30 seconds to keep safety statuses current.
 
-Safety Status Indicators: Dynamic color-coded cards (Safe, Caution, Unsafe) based on ice thickness and temperature.
+Safety status badges: Dynamic color-coded cards (Safe, Caution, Unsafe) based on ice thickness and temperature.
 
-Historical Visualizations: Interactive line charts using Chart.js to track ice growth trends.
+Historical trend charts: Interactive line charts using Chart.js to track ice growth trends.
 
 
 __Technologies Used__
