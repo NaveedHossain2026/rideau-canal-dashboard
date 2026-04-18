@@ -35,8 +35,6 @@ Deployment: Azure App Service, GitHub Actions (CI/CD)
 
 Clone the repository:
 
-Bash
-
 git clone [your-repo-link]
 
 cd web-dashboard
