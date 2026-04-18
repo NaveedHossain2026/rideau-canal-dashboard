@@ -16,7 +16,7 @@ Historical Visualizations: Interactive line charts using Chart.js to track ice g
 
 __Technologies Used__
 
-Backend: Node.js
+Backend: Node.js with Express
 
 Frontend: HTML5, CSS3, JavaScript , Chart.js
 
