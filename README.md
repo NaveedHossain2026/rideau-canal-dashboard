@@ -1,8 +1,8 @@
 # Rideau Canal Skateway Dashboard
 
 
-##
-Overview
+## Overview
+
 This is a real-time web application built with Node.js. It serves as the "Presentation Layer" of the Rideau Canal Monitoring System, fetching aggregated IoT telemetry from Azure Cosmos DB and displaying it through an interactive, responsive interface.
 
 __Dashboard Features__
@@ -25,14 +25,13 @@ Database: Azure Cosmos DB (SQL API)
 Deployment: Azure App Service, GitHub Actions (CI/CD)
 
 
-##Installation & Configuration
+## Prerequisites
 
-__Prerequisites__
 - Node.js v18 or higher
 
 - An active Azure Cosmos DB instance
 
-__Installation__
+## Installation
 
 Clone the repository:
 
@@ -48,6 +47,6 @@ Bash
 
 npm install
 
-Configuration
+## Configuration
 
 Create a .env file in the root directory and add your Azure credentials
