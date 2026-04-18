@@ -39,10 +39,6 @@ git clone https://github.com/NaveedHossain2026/rideau-canal-dashboard.git
 
 cd web-dashboard
 
-__Install dependencies:__
-
-Bash
-
 npm install
 
 ## Configuration
