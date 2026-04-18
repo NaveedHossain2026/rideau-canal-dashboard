@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is a real-time web application built with Node.js. It serves as the "Presentation Layer" of the Rideau Canal Monitoring System, fetching aggregated IoT telemetry from Azure Cosmos DB and displaying it through an interactive, responsive interface.
+This is a real-time web application built with Node.js. It serves as the Presentation Layer of the Rideau Canal Monitoring System, fetching aggregated IoT telemetry from Azure Cosmos DB and displaying it through an interactive, responsive interface.
 
 __Dashboard Features__
 
