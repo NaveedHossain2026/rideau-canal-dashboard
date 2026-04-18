@@ -35,7 +35,7 @@ Deployment: Azure App Service, GitHub Actions (CI/CD)
 
 Clone the repository:
 
-git clone [your-repo-link]
+git clone https://github.com/NaveedHossain2026/rideau-canal-dashboard.git
 
 cd web-dashboard
 
