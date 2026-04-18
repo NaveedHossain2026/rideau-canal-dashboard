@@ -16,13 +16,13 @@ __Historical trend charts:__ Interactive line charts using Chart.js to track ice
 
 __Technologies Used__
 
-Backend: Node.js with Express
+__Backend:__ Node.js with Express
 
-Frontend: HTML5, CSS3, JavaScript , Chart.js
+__Frontend:__ HTML5, CSS3, JavaScript , Chart.js
 
-Database: Azure Cosmos DB (SQL API)
+__Database:__ Azure Cosmos DB (SQL API)
 
-Deployment: Azure App Service, GitHub Actions (CI/CD)
+__Deployment:__ Azure App Service, GitHub Actions (CI/CD)
 
 
 ## Prerequisites
