@@ -18,7 +18,7 @@ __Technologies Used__
 
 Backend: Node.js
 
-Frontend: HTML5, CSS3, JavaScript (Vanilla), Chart.js
+Frontend: HTML5, CSS3, JavaScript , Chart.js
 
 Database: Azure Cosmos DB (SQL API)
 
