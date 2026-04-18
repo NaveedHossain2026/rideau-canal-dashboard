@@ -33,14 +33,11 @@ Deployment: Azure App Service, GitHub Actions (CI/CD)
 
 ## Installation
 
-### Clone the repository
-git clone https://github.com/NaveedHossain2026/rideau-canal-dashboard.git
+Clone the repository: git clone https://github.com/NaveedHossain2026/rideau-canal-dashboard.git
 
-### Enter the project directory
-cd rideau-canal-dashboard
+Enter the project directory: cd rideau-canal-dashboard
 
-### Install dependencies
-npm install
+Install dependencies: npm install
 
 ## Configuration
 
