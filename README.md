@@ -5,7 +5,7 @@
 
 This is a real-time web application built with Node.js. It serves as the Presentation Layer of the Rideau Canal Monitoring System, fetching aggregated IoT telemetry from Azure Cosmos DB and displaying it through an interactive, responsive interface.
 
-__Dashboard Features__
+### Dashboard Features
 
 __Real-time data display with Auto-refresh:__ Automatic data fetching every 30 seconds to keep safety statuses current.
 
@@ -14,7 +14,7 @@ __Safety status badges:__ Dynamic color-coded cards (Safe, Caution, Unsafe) base
 __Historical trend charts:__ Interactive line charts using Chart.js to track ice growth trends.
 
 
-__Technologies Used__
+### Technologies Used
 
 __Backend:__ Node.js with Express
 
