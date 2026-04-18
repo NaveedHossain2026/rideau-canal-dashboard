@@ -7,7 +7,7 @@ This is a real-time web application built with Node.js. It serves as the Present
 
 ### Dashboard Features
 
-__Real-time data display with Auto-refresh:__ Automatic data fetching every 30 seconds to keep safety statuses current.
+__Real-time data display with auto-refresh:__ Automatic data fetching every 30 seconds to keep safety statuses current.
 
 __Safety status badges:__ Dynamic color-coded cards (Safe, Caution, Unsafe) based on ice thickness and temperature.
 
